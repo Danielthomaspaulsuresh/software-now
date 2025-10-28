@@ -1,0 +1,24 @@
+Excellent
+Chapter 1:
+▪ Correctly using the provided algorithm to generate number n
+▪ Accurately modifies all pixels in the image as per instructions
+▪ Successfully generates and saves new image as
+'chapter1out.png'
+▪ Correctly calculates and outputs sum of red pixel values
+Chapter 2.1:
+▪ Correctly separates the input string into number and letter
+substrings
+▪ Accurately converts even numbers in the number substring to
+ASCII decimal values
+▪ Correctly converts uppercase letters in the letter substring to
+ASCII decimal values
+▪ Handles strings of various lengths (16 or more characters) and
+compositions
+Chapter 2.2:
+▪ Correctly implements the shift cipher decryption algorithm
+▪ Successfully determines the correct shift key value (s) for the
+given cryptogram
+▪ Accurately decrypts the entire cryptogram to reveal the original
+quote
+▪ Handles wraparound for letters at the end of the alphabet
+correctly
